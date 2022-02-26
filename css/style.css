@@ -1,0 +1,77 @@
+
+    
+.modal {
+    width: 300px;
+    border-radius: 10px;
+}
+.modal-body{
+    background-color: rgba(136, 133, 133, 0.5);
+    border-radius: 25px;
+
+}
+.modal-body ul{
+    background-color: rgba(136, 133, 133, 0.3);
+    border-radius: 10px;
+}
+.modal-body ul li{
+    background-color: rgba(136, 133, 133, 0.3);
+}
+
+.modal-content {
+    width: 300px;
+    height: 100% !important;
+}
+
+.list-group-item:hover {
+    background-color: rgba(104, 101, 104, 0.5);
+        
+}
+
+a:link, a:visited, a:active{
+    color: #030303;
+    text-decoration: none;
+}
+
+.imagens-perfil {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    border-radius: 25px;
+}
+
+.nomes {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logout {
+    position: absolute;
+    bottom: 0;
+    float: left;
+    clear:right
+}
+.container{
+    display: inline;
+    display: flex;
+}
+.container div{
+    padding-right: 2em;
+}
+
+.container div div{
+    background-color: rgb(65, 96, 235);
+    border-radius: 15px;
+}
+.imagens {
+    padding: 1.5em;
+}
+
+.layout {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(23, 162, 184);
+}
+ label b {
+    text-transform: uppercase;
+    color: #fff;
+ }
